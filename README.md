@@ -16,7 +16,9 @@ Weakly Supervised Video Anomaly Detection via Self-Guided Temporal Discriminativ
 
 You should change following files:
 (1) Change the file paths to the download datasets above in `list/shanghai-i3d-test.list` and `list/shanghai-i3d-train.list`.
+
 (2) Move checkpoint file into path './ckpt_final/'.
+
 (3) Change the hyperparameters in `src/option.py` if you like.
 ### Train and test the model
 You can run 'python main.py' to train a model, or
@@ -26,7 +28,7 @@ run 'python test_cur.py' to test a trained model.
 
 ## Citation
 
-If you find this repo useful for your research, please consider citing our paper:
+If you find this repo useful for your research, please cite our paper:
 
 ```bibtex
 @article{huang2022weakly,
@@ -38,4 +40,4 @@ If you find this repo useful for your research, please consider citing our paper
 }
 
 ```
-**Thanks https://github.com/tianyu0207/RTFM**
+**Thank https://github.com/tianyu0207/RTFM**
