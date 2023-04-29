@@ -9,9 +9,9 @@ Weakly Supervised Video Anomaly Detection via Self-Guided Temporal Discriminativ
 ## Training
 **Please download the extracted I3d features and checkpoint for ShanghaiTech dataset for a demo:**
 
->[**ShanghaiTech train i3d onedirve**]()
+>[**ShanghaiTech train i3d onedirve**](https://drive.google.com/file/d/1E5y6KvTapFP3SzOEUAVXmdkHtU0KIOJ4/view?usp=share_link)
 
->[**ShanghaiTech Checkpoint**]()
+>[**ShanghaiTech Checkpoint**](https://drive.google.com/file/d/1uypc52Qd-ad02LeB0EFLzVaJWBVD4vgC/view?usp=share_link)
 
 
 You should change following files:
